@@ -1,0 +1,53 @@
+# Ignore the temp_files folder
+temp/
+
+# Ignore node_modules, if any
+node_modules/
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+
+# Ignore TypeScript build output
+dist/
+out/
+
+# Ignore environment variable files
+.env
+.env.local
+.env.*.local
+
+# Ignore build files
+build/
+bin/
+obj/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+.vscode/*
+
+# Ignore coverage files
+coverage/
+
+# Ignore any compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+*.pyc
+*.pyo
+
+# Ignore lock files
+yarn.lock
+package-lock.json
+
+# Ignore generated documentation
+docs/
+
+# Ignore data folder used for TFX project
+data/
