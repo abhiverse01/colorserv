@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "opencv4nodejs-prebuilt-install": "^4.1.209",
+    "path": "^0.12.7",
+    "typescript": "^5.5.4",
+    "winston": "^3.14.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.2.0"
+  }
+}
