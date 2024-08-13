@@ -1,5 +1,14 @@
-{
-    "3432072961174543324.mp4": false,
-    "3432209606995264045.mp4": false,
-    "3433093119448103656.mp4": true
-}
+[
+    {
+        "video": "3432072961174543324.mp4",
+        "whiteBackground": false
+    },
+    {
+        "video": "3432209606995264045.mp4",
+        "whiteBackground": false
+    },
+    {
+        "video": "3433093119448103656.mp4",
+        "whiteBackground": true
+    }
+]
